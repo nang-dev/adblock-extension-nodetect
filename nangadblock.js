@@ -3,6 +3,6 @@ chrome.webRequest.onBeforeRequest.addListener(
         console.log("I am going to block:", details.url)
         return {cancel: true}
     },
-    {urls: blocked_sites},
+    {urls: blocked_sites_v2},
     ["blocking"]
 )

@@ -2,9 +2,9 @@
     "name": "Nang Ad Blocker", 
     "description": "Adblocker that doesn't get detected",
     "manifest_version": 2,
-    "version": "1.0", 
+    "version": "1.11", 
     "background": {
-        "scripts": ["blockedsites.js", "nangadblock.js"]
+        "scripts": ["blockedsites_v2.js", "nangadblock.js"]
     },
     "permissions": ["webRequest", "webRequestBlocking", "http://*/", "https://*/"]
 }
