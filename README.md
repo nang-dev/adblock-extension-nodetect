@@ -7,5 +7,5 @@
 2. Unzip the file and you should have a folder named `adblock-extension-nodetect-master`.
 3. In Chrome go to the extensions page (`chrome://extensions`).
 4. Enable Developer Mode.
-5. Drag the `dist` folder that is in `adblock-extension-nodetect-master` onto anywhere on the Chrome page to import it! (do not delete the folder afterwards)
+5. Drag the `adblock-extension-nodetect-master` folder onto anywhere on the Chrome page to import it! (do not delete the folder afterwards)
 6. Enjoy!
